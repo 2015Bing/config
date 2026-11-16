@@ -1,0 +1,36 @@
+{
+    "urls":  [
+                 {
+                     "name":  "饭太硬",
+                     "url":  "http://www.饭太硬.cc/tv"
+                 },
+                 {
+                     "name":  "王二小",
+                     "url":  "http://tvbox.xn--4kq62z5rby2qupq9ub.top/"
+                 },
+                 {
+                     "name":  "香雅情",
+                     "url":  "https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
+                 },
+                 {
+                     "name":  "王二小新（试用）",
+                     "url":  "https://9280.kstore.vip/newwex.json"
+                 },
+                 {
+                     "name":  "小虎4K（兼容模式）",
+                     "url":  "http://xhztv.top/4k.json"
+                 },
+                 {
+                     "name":  "玄竹影视",
+                     "url":  "https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json"
+                 },
+                 {
+                     "name":  "szyyds（兼容模式）",
+                     "url":  "https://szyyds.cn/tv/x.json"
+                 },
+                 {
+                     "name":  "HG影视",
+                     "url":  "https://api.hgyx.vip/hgyx.json"
+                 }
+             ]
+}
